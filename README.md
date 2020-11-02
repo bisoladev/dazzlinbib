@@ -1,16 +1,13 @@
-### Hi there 👋
+![Header](https://raw.githubusercontent.com/dazzlinbib/dazzlinbib/main/header-img.png "Header")
 
-<!--
-**dazzlinbib/dazzlinbib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Here are some ideas to get you started:
+My name is Onaolapo Bisola. I am a front-end developer with UI/UX design skills (front-end designer). I´m based in Abuja, Nigeria. 
+I love to explore and create unique contents and I hope to change the world one code at a time!	&#129392;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on becoming a world-class software developer
+- &#128218; I am a graduate of physiology, currently a computer science student!
+- 🌱 I’m currently learning reactJS
+- 😄 Pronouns are She/Her
+- ⚡ Fun fact: I love to sketch love emojis
