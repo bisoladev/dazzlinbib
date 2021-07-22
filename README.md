@@ -7,7 +7,6 @@ I love to explore and create unique contents and I hope to impact lives through 
 
 
 - 🔭 I’m currently working on becoming a world-class software developer
-- &#128218; I am a graduate of physiology, now a computer science student
-- 🌱 I’m currently learning reactJS
+- &#128218; I am a graduate of physiology, now a software developer
 - 😄 Pronouns are She/Her
 - ⚡ Fun fact: I love to sketch love emojis
